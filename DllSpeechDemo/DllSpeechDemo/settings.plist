@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>luisSubscriptionID</key>
+	<string>yourLuisSubscriptionID</string>
+	<key>luisAppID</key>
+	<string>yourLuisAppID</string>
+	<key>secondaryKey</key>
+	<string>6a199740a02b40b7a20fcc8bac4eb5f9</string>
+	<key>primaryKey</key>
+	<string>e176d4dc6bd14807a3e60bce924f06a0</string>
+</dict>
+</plist>
